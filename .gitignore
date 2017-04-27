@@ -1,2 +1,27 @@
-# by Composer
+# cache, logs & sessions
+/var/*
+!/var/cache
+/var/cache/*
+!var/cache/.gitkeep
+!/var/logs
+/var/logs/*
+!var/logs/.gitkeep
+!/var/sessions
+/var/sessions/*
+!var/sessions/.gitkeep
+!var/SymfonyRequirements.php
+/bin/
+
+
+# parameters
+/app/config/parameters.yml
+
+# managed by Composer
 /vendor/
+
+# assets and user uploads
+!web/bundles
+web/bundles/*
+
+# php-cs-fixer
+.php_cs.cache

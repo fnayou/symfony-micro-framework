@@ -36,7 +36,8 @@
         "escapestudios/symfony2-coding-standard": "^2.10",
         "fnayou/standards": "^1.2",
         "friendsofphp/php-cs-fixer": "^2.3",
-        "phpunit/phpunit": "^5.7"
+        "phpunit/phpunit": "^5.7",
+        "sensio/generator-bundle": "^3.1"
     },
     "scripts": {
         "symfony-scripts": [

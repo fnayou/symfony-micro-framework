@@ -4,6 +4,7 @@
 /.gitignore       export-ignore
 /.standards       export-ignore
 /.php_cs          export-ignore
+/.scrutinizer.yml export-ignore
 /phpunit.xml.dist export-ignore
 
 # md files

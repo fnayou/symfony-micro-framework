@@ -10,6 +10,8 @@ Small and tiny and easy to configure, this build is perfect for :
   - development playground
   - etc.
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/77eee168-fc93-4151-9d1a-85c999b46756/big.png)](https://insight.sensiolabs.com/projects/77eee168-fc93-4151-9d1a-85c999b46756)
+
 ## How to use ?
 
 you can create a new project using `composer` :

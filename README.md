@@ -1,6 +1,10 @@
 Symfony MicroFramework
 ======================
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/badges/build.png?b=master)](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/build-status/master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/77eee168-fc93-4151-9d1a-85c999b46756/mini.png)](https://insight.sensiolabs.com/projects/77eee168-fc93-4151-9d1a-85c999b46756)
+
 Symfony Micro Framework based on [MicroKernelTrait][link-micro-kernel]
 
 Small and tiny and easy to configure, this build is perfect for :
@@ -9,8 +13,6 @@ Small and tiny and easy to configure, this build is perfect for :
   - light web project
   - development playground
   - etc.
-
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/77eee168-fc93-4151-9d1a-85c999b46756/big.png)](https://insight.sensiolabs.com/projects/77eee168-fc93-4151-9d1a-85c999b46756)
 
 ## How to use ?
 

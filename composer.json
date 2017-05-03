@@ -56,9 +56,6 @@
         ]
     },
     "config": {
-        "platform": {
-            "php": "5.6.0"
-        },
         "bin-dir": "bin",
         "sort-packages": true
     },

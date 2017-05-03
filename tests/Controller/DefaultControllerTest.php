@@ -1,9 +1,12 @@
 <?php
 
-namespace Fnayou\AdminBundle\Tests\Controller;
+namespace Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
+/**
+ * Class DefaultControllerTest.
+ */
 class DefaultControllerTest extends WebTestCase
 {
     public function testIndexSuccess()

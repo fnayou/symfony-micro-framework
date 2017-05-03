@@ -16,10 +16,20 @@ Small and tiny and easy to configure, this build is perfect for :
 
 ## How to use ?
 
-you can create a new project using `composer` :
+You can create a new project using `composer` :
+
 ```bash
 $ php composer.phar create-project fnayou/symfony-micro-framework
 ```
+
+That's it ! you have full working project with :
+  - `.editorconfig` file
+  - PHPCodeSniffer configuration just run command `bin\standards`
+  - Scrutinizer configuration file
+  - PHPCSFixer configuration file
+  - and much more
+
+Don't waste time configuring, start coding !
 
 ## Included packages ?
 
@@ -40,6 +50,10 @@ $ php composer.phar create-project fnayou/symfony-micro-framework
         "sensio/generator-bundle": "^3.1"
     }
 ```
+
+## Note
+
+If you want to clean up your project, don't forget to uncomment content of `.gitattributes`.
 
 ## Credits
 

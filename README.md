@@ -29,6 +29,10 @@ That's it ! you have full working project with :
   - PHPCSFixer configuration file
   - and much more
 
+**Docker** is ready to be used with *nginx*, *PHP-FPM*, *MariaDB*, *Postgres*, *MongoDB* and *CouchDB*. all you have to 
+do is to configure `docker-compose.yml`. We use [fnayou/oh-my-docker][link-oh-my-docker], so check the project for more
+information.
+
 Don't waste time configuring, start coding !
 
 ## Included packages ?
@@ -58,14 +62,13 @@ If you want to clean up your project, don't forget to uncomment content of `.git
 ## Credits
 
 - [Symfony][link-symfony]
-- [Aymen FNAYOU][link-author] - [GitLab][link-author-gitlab] - [GitHub][link-author-github]
+- [Aymen FNAYOU][link-author]
 
 ## License
 
-![license](https://img.shields.io/badge/license-MIT-lightgrey.svg) Please see [License File](LICENSE.md) for more information.
+![license](https://img.shields.io/badge/license-MIT-lightgrey.svg) Please see [License File](LICENSE) for more information.
 
 [link-author]: https://aymen-fnayou.com
-[link-author-gitlab]: https://gitlab.com/fnayou
-[link-author-github]: https://github.com/fnayou
+[link-oh-my-docker]: https://github.com/fnayou/oh-my-docker
 [link-micro-kernel]: https://symfony.com/doc/2.8/configuration/micro_kernel_trait.html
 [link-symfony]: https://github.com/symfony/symfony

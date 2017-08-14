@@ -24,7 +24,7 @@ $loader = require __DIR__.'/../app/autoload.php';
 Debug::enable();
 
 $microKernel = new MicroKernel('dev', true);
-$microKernel->loadClassCache();
+//$microKernel->loadClassCache();
 
 $request = Request::createFromGlobals();
 $response = $microKernel->handle($request);

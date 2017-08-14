@@ -30,3 +30,6 @@ web/bundles/*
 
 # phpunit
 phpunit.xml
+
+#docker
+/docker/data

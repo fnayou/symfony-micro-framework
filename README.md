@@ -2,8 +2,9 @@ Symfony MicroFramework
 ======================
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/badges/build.png?b=master)](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/build-status/master)
+[![Build Status](https://travis-ci.org/fnayou/symfony-micro-framework.svg?branch=master)](https://travis-ci.org/fnayou/symfony-micro-framework)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/77eee168-fc93-4151-9d1a-85c999b46756/mini.png)](https://insight.sensiolabs.com/projects/77eee168-fc93-4151-9d1a-85c999b46756)
+[![Build Status](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/badges/build.png?b=master)](https://scrutinizer-ci.com/g/fnayou/symfony-micro-framework/build-status/master)
 
 Symfony Micro Framework based on [MicroKernelTrait][link-micro-kernel]
 

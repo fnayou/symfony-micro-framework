@@ -1,14 +1,16 @@
-# uncomment next lines to get clean project
+?# uncomment next lines to get clean project
 
 ## development files
-#/.editorconfig    export-ignore
-#/.gitattributes   export-ignore
-#/.gitignore       export-ignore
-#/.standards       export-ignore
-#/.php_cs          export-ignore
-#/.scrutinizer.yml export-ignore
-#/phpunit.xml.dist export-ignore
+#/.editorconfig      export-ignore
+#/.gitattributes     export-ignore
+#/.gitignore         export-ignore
+#/.standards         export-ignore
+#/.php_cs            export-ignore
+#/.scrutinizer.yml   export-ignore
+#/phpunit.xml.dist   export-ignore
+#/docker             export-ignore
+#/docker-compose.yml export-ignore
 
 ## md files
-#/LICENSE.md          export-ignore
+#/LICENSE          export-ignore
 #/README.md        export-ignore
